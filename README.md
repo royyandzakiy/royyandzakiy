@@ -2,7 +2,7 @@
 
 ### Hi, I'm Royyan 👋
 
-🔭 I’m currently working on IoT Wireless Technologies
+🔭 I currently work on IoT Wireless Technologies
 
 ⚡ Checkout my stuff here!
 - medium.com/@royyandzakiy
