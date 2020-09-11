@@ -1,11 +1,13 @@
+![header](docs/header.png)
+
 ### Hi, I'm Royyan 👋
 
 🔭 I’m currently working on IoT Wireless Technologies
 
 ⚡ Checkout my stuff here!
-medium.com/@royyandzakiy
-issuu.com/royyandzakiy/
-bit.ly/royyantalks 
+- medium.com/@royyandzakiy
+- issuu.com/royyandzakiy/
+- bit.ly/royyantalks 
 
 <!--
 **royyandzakiy/royyandzakiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
