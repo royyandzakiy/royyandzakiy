@@ -1,8 +1,8 @@
-### Hi mate 👋
+### Hi, I'm Royyan 👋
 
-## 🔭 I’m currently working on IoT Wireless Technologies
+🔭 I’m currently working on IoT Wireless Technologies
 
-## ⚡ Checkout my stuff here!
+⚡ Checkout my stuff here!
 medium.com/@royyandzakiy
 issuu.com/royyandzakiy/
 bit.ly/royyantalks 
