@@ -4,7 +4,7 @@
 
 📡 I currently work on **Full Stack Internet-of-Things Development** and am in research of applications of various wireless technologies
 
-📖 I love to writing and talking. Checkout my stuff here!
+📖 I love to write and talk. Checkout my stuff here!
 - My Blog at [medium.com/@royyandzakiy](https://www.medium.com/@royyandzakiy)
 - My Talk Presentations at [issuu.com/royyandzakiy](https://www.issuu.com/royyandzakiy/)
 
