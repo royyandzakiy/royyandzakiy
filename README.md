@@ -2,12 +2,11 @@
 
 ### Hi, I'm Royyan 👋
 
-🔭 I currently work on IoT Wireless Technologies
+📡 I currently work on IoT Wireless Technologies
 
-⚡ Checkout my stuff here!
-- medium.com/@royyandzakiy
-- issuu.com/royyandzakiy/
-- bit.ly/royyantalks 
+📖 I love to writing and talking. Checkout my stuff here!
+- My Blog at [medium.com/@royyandzakiy](https://www.medium.com/@royyandzakiy)
+- My Talk Presentations at [issuu.com/royyandzakiy](https://www.issuu.com/royyandzakiy/)
 
 <!--
 **royyandzakiy/royyandzakiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
