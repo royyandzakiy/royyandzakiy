@@ -2,7 +2,7 @@
 
 ### Hi, I'm Royyan 👋
 
-📡 I currently work on **Full Stack Web** and **Internet-of-Things Development** and am in research on applications of various wireless technologies
+📡 I currently work on **Full Stack Web** and **Internet-of-Things Development**. Currently I am really interested in exploring implementations of various wireless technologies on different use cases.
 
 📖 I love to write and talk. Checkout my stuff here!
 - My Blog at [medium.com/@royyandzakiy](https://www.medium.com/@royyandzakiy)
