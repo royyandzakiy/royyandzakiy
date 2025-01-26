@@ -2,11 +2,11 @@
 
 ### Hi, I'm Royyan 👋
 
-📡 I currently work on **Full Stack Web** and **Internet-of-Things Development**. Currently I am really interested in exploring implementations of various wireless technologies on different use cases.
+📡 I mostly specialize in **Embedded Systems Development** and have been working on **Full Stack Web Development** too
 
 📖 I love to write and talk. Checkout my stuff here!
 - My Blog at [medium.com/@royyandzakiy](https://www.medium.com/@royyandzakiy)
-- My Talk presentations at [issuu.com/royyandzakiy](https://www.issuu.com/royyandzakiy/)
+- My Talk presentations at [issuu.com/royyandzakiy](https://www.issuu.com/royyandzakiy/) and [bit.ly/royyantalks](https://bit.ly/royyantalks)
 
 <!--
 **royyandzakiy/royyandzakiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
