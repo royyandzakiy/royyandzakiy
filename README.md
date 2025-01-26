@@ -2,7 +2,7 @@
 
 ### Hi, I'm Royyan 👋
 
-📡 I specialize in **Embedded Systems Development**, especially on the ESP32. I have also been working on **Full Stack Web Development**, spanning across many different tech stacks. I'm also interested in drones, robotics, and control systems development!
+📡 I specialize in **Embedded Systems Development**, especially on the ESP32. I have also been working on **Full Stack Web Development**, spanning across different tech stacks. I'm also interested in drones, robotics, and control systems development!
 
 📖 I love to write and talk. Checkout my stuff here!
 - My Blog at [medium.com/@royyandzakiy](https://www.medium.com/@royyandzakiy)
