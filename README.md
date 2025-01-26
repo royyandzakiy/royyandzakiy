@@ -2,13 +2,13 @@
 
 ### Hi, I'm Royyan 👋
 
-📡 I mostly specialize in **Embedded Systems Development** and have been working on **Full Stack Web Development** too. I'm interested in drones, robotics, and control systems
+📡 I specialize in **Embedded Systems Development**, especially on the ESP32. I have also been working on **Full Stack Web Development** too spanning many different tech stacks. I'm also interested in drones, robotics, and control systems development!
 
 📖 I love to write and talk. Checkout my stuff here!
 - My Blog at [medium.com/@royyandzakiy](https://www.medium.com/@royyandzakiy)
-- My Talk presentations at [issuu.com/royyandzakiy](https://www.issuu.com/royyandzakiy/) and [bit.ly/royyantalks](https://bit.ly/royyantalks)
+- My Talk presentations at [bit.ly/royyantalks](https://bit.ly/royyantalks) and [issuu.com/royyandzakiy](https://www.issuu.com/royyandzakiy/)
 
-You can reach me out through my [linkedin/royyandzakiy](https://www.linkedin.com/in/royyandzakiy/)!
+📫 You can reach me out through my [linkedin/royyandzakiy](https://www.linkedin.com/in/royyandzakiy/)!
 
 <!--
 **royyandzakiy/royyandzakiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
