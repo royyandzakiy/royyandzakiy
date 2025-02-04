@@ -8,7 +8,7 @@
 🚀 Passionate about drones, robotics, and control systems.
 
 📖 I write and speak about tech & management:
-- **Blog**: medium.com/@royyandzakiy
+- **Blog**: [medium.com/@royyandzakiy](https://www.medium.com/@royyandzakiy)
 - **Talks**: [bit.ly/royyantalks](https://bit.ly/royyantalks)
 
 📫 Let’s connect: [linkedin/royyandzakiy](https://www.linkedin.com/in/royyandzakiy/)!
