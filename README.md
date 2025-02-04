@@ -1,26 +1,15 @@
 ![header](https://github.com/royyandzakiy/royyandzakiy/blob/master/docs/header.png)
 
-### Hi, I'm Royyan 👋
+## 👋 Hi, I’m Royyan!
+💻 Software Engineer & Engineering Manager specializing in Embedded Systems (ESP32, FreeRTOS, C/C++) and Web/Cloud Solutions (JavaScript/TypeScript, Python).
 
-📡 I specialize in **Embedded Systems Development**, especially on the ESP32. I have also been working on **Full Stack Web Development**, spanning across different tech stacks. I'm also interested in drones, robotics, and control systems development!
+📡 I build tech for rural and agricultural applications—smart agriculture devices, environmental sensors, and health wearables. I love rapid prototyping, optimizing for low power, and improving code for modularity and testability.
 
-📖 I love to write and talk. Checkout my stuff here!
-- My Blog at [medium.com/@royyandzakiy](https://www.medium.com/@royyandzakiy)
-- My Talk presentations at [bit.ly/royyantalks](https://bit.ly/royyantalks) and [issuu.com/royyandzakiy](https://www.issuu.com/royyandzakiy/)
+🚀 Passionate about drones, robotics, and control systems.
 
-📫 You can reach me out through my [linkedin/royyandzakiy](https://www.linkedin.com/in/royyandzakiy/)!
+📖 I write and speak about tech & management:
 
-<!--
-**royyandzakiy/royyandzakiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Blog: medium.com/@royyandzakiy
+Talks: [bit.ly/royyantalks](https://bit.ly/royyantalks)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Let’s connect: [linkedin/royyandzakiy](https://www.linkedin.com/in/royyandzakiy/)!
