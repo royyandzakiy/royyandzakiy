@@ -1,13 +1,13 @@
 ![header](https://github.com/royyandzakiy/royyandzakiy/blob/master/docs/header.png)
 
-## 👋 Hi, I’m Royyan!
-💻 **Software Engineer & Engineering Manager** specializing in **Embedded Systems** (ESP32, FreeRTOS, C/C++) and **Web/Cloud Solutions** (JavaScript/TypeScript, Python, MING-stack).
+## Hi, I’m Royyan!
+**Software Engineer & Engineering Manager** specializing in **Embedded Systems** (C/C++, Espressif, Nordic, FreeRTOS, Zephyr) and doing some **Web/Cloud Solutions** (JavaScript/TypeScript, Python, MING-stack).
 
-📡 I build tech for **rural and agricultural applications**—smart agriculture devices, environmental sensors, and health wearables. I love **rapid prototyping**, optimizing for reliability, and improving code for modularity and testability.
+I build tech for different sectors, such as **Rural and Agriculture** (smart feeding devices, weather stations, animal behavior data modelling), **Medical Devices** (brain computer interfaces), **House Appliances (door locks). I excel in **Software Architecture design**, **Rapid Prototyping**, **Code Readability & Documentation**.
 
-🚀 Passionate about drones, robotics, and control systems.
+I'm particularly passionate about IoT, Drones, Robotics.
 
-📖 I write and speak about tech & management:
+I also write and speak about tech & management:
 - **Blog**: [medium.com/@royyandzakiy](https://www.medium.com/@royyandzakiy)
 
-📫 Let’s connect: [linkedin/royyandzakiy](https://www.linkedin.com/in/royyandzakiy/)!
+Let’s connect: [linkedin/royyandzakiy](https://www.linkedin.com/in/royyandzakiy/)!
