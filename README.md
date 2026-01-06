@@ -88,7 +88,7 @@ These repositories are mostly explorations of architecture, language features, o
   Still a work in progress and intended as a long-term portfolio system.
 
 - **[gmock-sfinae-concepts-calculator](https://github.com/royyandzakiy/gmock-sfinae-concepts-calculator)**  
-  Small experiments around templates, SFINAE, C++20 concepts, and testability.
+  Testing suite setup using templates, SFINAE, C++20 concepts, and testability.
 
 ---
 
