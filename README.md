@@ -1,51 +1,52 @@
 ![header](https://github.com/royyandzakiy/royyandzakiy/blob/master/docs/header.png)
 
-# 👋 Hi, I’m Royyan
+# Hi, I’m Royyan
 
 Senior Embedded / Firmware Engineer  
 C++ • RTOS • Zephyr • ESP-IDF • Systems Architecture
 
-I design and build **reliable embedded systems** — from bare-metal and RTOS firmware to device-to-desktop tooling — with a focus on **clarity, determinism, and long-term maintainability**.
+I work on embedded systems that need to behave predictably in the real world.  
+From bare-metal and RTOS firmware to device-to-desktop tooling, I focus on designs that are explicit, debuggable, and maintainable over time.
 
-Mostly an **individual contributor by default**, occasionally stepping into **technical leadership** when systems, teams, or architectures need alignment.
-
----
-
-## 🧠 How I approach engineering
-
-- Systems should be **understandable before they are clever**
-- Event-driven > tangled control flow
-- Explicit state beats implicit behavior
-- Tooling and architecture are part of the product
-- Production constraints are design inputs, not afterthoughts
-
-I care less about novelty and more about whether a system can be **debugged at 2 a.m. and still make sense**.
+Primarily an individual contributor. I step into technical leadership when architecture, direction, or system boundaries need clarification.
 
 ---
 
-## 🔧 What I work on
+## How I think about engineering
 
-- Embedded firmware for **IoT, medical, and industrial devices**
-- RTOS-based systems (Zephyr, FreeRTOS)
-- Connectivity-heavy devices (BLE, Wi-Fi, MQTT)
-- Sensor data pipelines under real-time constraints
-- Firmware architecture, refactoring, and developer tooling
-- Native desktop tooling (Windows) for device communication and diagnostics
+- Code should be understandable before it is clever
+- Explicit state and data flow beat implicit behavior
+- Event-driven designs scale better than tightly coupled control logic
+- Tooling, build systems, and developer experience matter
+- Production constraints are part of the design, not something added later
+
+I enjoy experimenting with language features and abstractions, but I am always aware of the trade-offs, especially in embedded systems.
 
 ---
 
-## 🧰 Core technologies
+## What I work on
+
+- Embedded firmware for IoT, medical, and industrial devices
+- RTOS-based systems using Zephyr and FreeRTOS
+- Connectivity-heavy devices using BLE, Wi-Fi, and MQTT
+- Sensor data acquisition under real-time and throughput constraints
+- Firmware architecture, refactoring, and system cleanup
+- Native Windows tooling for device communication and diagnostics
+
+---
+
+## Core technologies
 
 **Languages**
-- C / Modern C++
-- Python (tooling, scripting)
-- TypeScript (automation, internal tools)
+- C and Modern C++
+- Python for tooling and scripting
+- TypeScript for automation and internal tools
 
-**Embedded & Systems**
+**Embedded and Systems**
 - Zephyr OS, FreeRTOS
 - ESP-IDF, Nordic SDK
-- State machines, event-driven design
-- Low-power and high-throughput data paths
+- State machines and event-driven designs
+- Low-power systems and high-rate data paths
 
 **Connectivity**
 - BLE, Wi-Fi
@@ -54,65 +55,65 @@ I care less about novelty and more about whether a system can be **debugged at 2
 
 **Tooling**
 - CMake
-- CI/CD for firmware
+- CI/CD for firmware projects
 - Static analysis
 - GoogleTest
 
 ---
 
-## 📌 Selected repositories
+## Selected repositories
 
-These repos reflect how I think about **architecture, tooling, and correctness** rather than polished products.
+These repositories are mostly explorations of architecture, language features, or tooling choices. Some are experimental by design.
 
-### 🧩 Embedded & Systems
+### Embedded and Systems
 - **[multisensor-station](https://github.com/royyandzakiy/multisensor-station)**  
-  Modular multi-sensor firmware architecture focused on extensibility and reliability.
+  Modular multi-sensor firmware architecture focused on extensibility and clear separation of concerns.
 
 - **[esp-freertos-tutorial](https://github.com/royyandzakiy/esp-freertos-tutorial)**  
-  Practical FreeRTOS patterns on ESP32, focused on task structure and concurrency clarity.
+  Practical FreeRTOS patterns on ESP32, with an emphasis on task structure and concurrency clarity.
 
 - **[zephyr-modern-cpp](https://github.com/royyandzakiy/zephyr-modern-cpp)**  
-  Exploring modern C++ usage within Zephyr constraints — experimental by design.
+  Experiments using modern C++ features on Zephyr and ESP-IDF, including concepts, variants, and alternative state machine approaches.
 
 - **[LoRa-RHMesh](https://github.com/royyandzakiy/LoRa-RHMesh)**  
-  Early work on LoRa mesh networking and packet routing concepts.
+  Early work around LoRa mesh networking and packet routing.
 
-### 🧰 Tooling & Architecture
+### Tooling and Architecture
 - **[windows-lib-cpp-template](https://github.com/royyandzakiy/windows-lib-cpp-template)**  
-  A production-oriented C++ library template with structured CMake, CI, and native Windows integration.  
-  (Used internally in real projects.)
+  A C++ library template with structured CMake, CI, and native Windows integration.  
+  Used internally in real projects.
 
 - **[balancer-robot-workspace-manifest](https://github.com/royyandzakiy/balancer-robot-workspace-manifest)**  
-  Zephyr + west workspace manifest for a balancing robot project.  
-  Still a work in progress — intended as a long-term systems portfolio.
+  Zephyr and west workspace setup for a balancing robot project.  
+  Still a work in progress and intended as a long-term portfolio system.
 
-### 🧪 C++ Experiments
+### C++ Experiments
 - **[gmock-sfinae-concepts-calculator](https://github.com/royyandzakiy/gmock-sfinae-concepts-calculator)**  
-  Small experiments around templates, SFINAE, concepts, and testability.
+  Small experiments around templates, SFINAE, C++20 concepts, and testability.
 
 ---
 
-## 🧭 What you won’t find here
+## What you probably will not see here
 
-- Shiny demos without constraints
-- Over-engineered abstractions
-- “One weird trick” architectures
-- Framework worship
+- Shiny demos without real constraints
+- Over-abstracted architectures
+- Framework-driven designs without justification
+- Claims of “best” solutions
 
-Most projects here exist to **clarify thinking**, test assumptions, or support real work.
-
----
-
-## 📍 Currently
-
-- Embedded Software Engineer at **LMesh IoT**  
-- Working on medical and industrial IoT systems using Zephyr, FreeRTOS, and mixed-connectivity stacks
-- Based in the Netherlands (remote-friendly)
+Most of these projects exist to explore ideas, validate assumptions, or support real work.
 
 ---
 
-## 🤝 Contact
+## Currently
+
+- Embedded Software Engineer at **LMesh IoT**
+- Working on medical and industrial IoT systems using Zephyr, FreeRTOS, and mixed connectivity stacks
+- Based in the Netherlands, working remotely
+
+---
+
+## Contact
 
 - LinkedIn: https://www.linkedin.com/in/royyandzakiy/
 
-If you care about **systems that age well**, we’ll probably get along.
+If you enjoy thinking about firmware architecture, trade-offs, and how things actually behave on hardware, we will likely have things to talk about.
