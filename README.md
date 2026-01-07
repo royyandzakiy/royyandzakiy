@@ -26,7 +26,7 @@ Primarily an individual contributor. I also contirbute into technical leadership
 - Tooling, build systems, developer experience, documentations should all be first class. Code should be made to be left behind and then seamlessly continued by the next contributor/employee
 - Production constraints are part of the design, should.be early on, should be prepared for future changes
 
-I enjoy experimenting with language features and abstractions, but I am always aware of the trade-offs, especially in embedded systems.
+I enjoy experimenting with language features, patterns/idioms, and abstractions, whilst actively measuring the trade-offs and performance (especially in embedded systems).
 
 ---
 
