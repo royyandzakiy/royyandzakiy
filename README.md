@@ -36,7 +36,7 @@ I enjoy experimenting with language features, patterns/idioms, and abstractions,
 - RTOS-based systems using Zephyr and FreeRTOS
 - Connectivity-heavy devices using BLE, Wi-Fi, and MQTT
 - Sensor data acquisition under real-time and throughput constraints
-- Previously also on rugged offline-first smart feeders mainly utilized in rural areas with minimal to no connectivity infrastructure
+- Previously also on rugged offline-first smart farming feeders mainly utilized in rural areas with minimal to no connectivity infrastructure
 - Firmware architecture, refactoring, and system cleanup
 - Native Windows tooling for device communication and diagnostics
 
