@@ -8,7 +8,7 @@ C++ • RTOS • Zephyr • ESP-IDF • Systems Architecture
 I work on embedded systems that need to behave predictably in the real world.  
 From bare-metal and RTOS firmware to device-to-desktop tooling, I focus on designs that are explicit, debuggable, and maintainable over time.
 
-Primarily an individual contributor. I step into technical leadership when architecture, direction, or system boundaries need clarification.
+Primarily an individual contributor. I also contirbute into technical leadership when architecture, direction, or system boundaries.
 
 ## Currently
 
