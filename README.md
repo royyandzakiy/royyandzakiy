@@ -1,4 +1,4 @@
-![header](https://github.com/royyandzakiy/royyandzakiy/blob/master/docs/header.png)
+<![header](https://github.com/royyandzakiy/royyandzakiy/blob/master/docs/header.png)
 
 # Hi, I’m Royyan
 
@@ -36,8 +36,8 @@ I enjoy experimenting with language features, patterns/idioms, and abstractions,
 - RTOS-based systems using Zephyr and FreeRTOS
 - Connectivity-heavy devices using BLE, Wi-Fi, and MQTT
 - Medical sensor data acquisition with high throughput and high data integrity requirements
-- Previously also on rugged offline-first smart farming feeders mainly utilized in rural areas with minimal to no connectivity infrastructure
-- Firmware architecture, refactoring, and system cleanup
+- Previously on rugged offline-first smart farming feeders mainly utilized in rural areas with minimal to no connectivity infrastructure
+- Firmware architecture, legacy refactoring, and automated testing
 - Native Windows tooling for device communication and diagnostics
 
 ---
