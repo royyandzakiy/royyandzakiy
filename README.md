@@ -15,6 +15,7 @@ Primarily an individual contributor. I step into technical leadership when archi
 - Embedded Software Engineer at **LMesh IoT**
 - Working on medical and industrial IoT systems using Zephyr, FreeRTOS, and mixed connectivity stacks
 - Based in the Netherlands, working remotely
+- In my previous company, I had worked on rugged offline-first smart feeders mainly utilized in rural areas with minimal to no connectivity infrastructure
 
 ---
 
