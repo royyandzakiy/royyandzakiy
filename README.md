@@ -15,7 +15,7 @@ Primarily an individual contributor. I also contirbute into technical leadership
 - Embedded Software Engineer at **LMesh IoT**
 - Working on medical and industrial IoT systems using Zephyr, FreeRTOS, and mixed connectivity stacks
 - Based in the Netherlands, working remotely
-- In my previous company, I had worked on rugged offline-first smart feeders mainly utilized in rural areas with minimal to no connectivity infrastructure
+- 
 
 ---
 
@@ -37,6 +37,7 @@ I enjoy experimenting with language features and abstractions, but I am always a
 - RTOS-based systems using Zephyr and FreeRTOS
 - Connectivity-heavy devices using BLE, Wi-Fi, and MQTT
 - Sensor data acquisition under real-time and throughput constraints
+- Rugged offline-first smart feeders mainly utilized in rural areas with minimal to no connectivity infrastructure
 - Firmware architecture, refactoring, and system cleanup
 - Native Windows tooling for device communication and diagnostics
 
