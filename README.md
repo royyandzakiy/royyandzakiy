@@ -66,6 +66,12 @@ I enjoy experimenting with language features, patterns/idioms, and abstractions,
 - Static analysis
 - GoogleTest
 
+**Development & Documentations**
+- Product Requirement Documents, Engineering Requirement Documents
+- C4 Diagrams, Data Flow Diagrams, Sequence Diagrams, Flow Charts, Class Diagrams, etc
+- Architecture Decision Records
+- Doxygen, Docusaurus
+
 ---
 
 ## Selected repositories
