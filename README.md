@@ -8,23 +8,23 @@ C++ • RTOS • Zephyr • ESP-IDF • Systems Architecture
 I work on embedded systems that need to behave predictably in the real world.  
 From bare-metal and RTOS firmware to device-to-desktop tooling, I focus on designs that are explicit, debuggable, and maintainable over time.
 
-Primarily an individual contributor. I also contirbute into technical leadership when architecture, direction, or system boundaries.
+Primarily an individual contributor. I also contirbute into technical leadership discussing architecture, direction, or system boundaries.
 
 ## Currently
 
 - Embedded Software Engineer at **LMesh IoT**
-- Working on medical and industrial IoT systems using Zephyr, FreeRTOS, and mixed connectivity stacks
+- Working on medical and industrial IoT systems using Zephyr, FreeRTOS, and various connectivity stacks
 - Based in the Netherlands, working remotely
 
 ---
 
 ## How I think about software
 
-- Code should be understandable before it is clever
-- Explicit state and data flow beat implicit behavior
-- Event-driven designs scale better than tightly coupled control logic
-- Tooling, build systems, and developer experience matter
-- Production constraints are part of the design, not something added later
+- Code should be understandable and structured such that it's readable
+- Explicit state and data flow means less time during debugging
+- Event-driven designs that embraces modularity scale better than tightly coupled "efficient" control logic
+- Tooling, build systems, developer experience, documentations should all be first class. Code should be made to be left behind and then seamlessly continued by the next contributor/employee
+- Production constraints are part of the design, should.be early on, should be prepared for future changes
 
 I enjoy experimenting with language features and abstractions, but I am always aware of the trade-offs, especially in embedded systems.
 
