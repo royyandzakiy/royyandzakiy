@@ -10,9 +10,15 @@ From bare-metal and RTOS firmware to device-to-desktop tooling, I focus on desig
 
 Primarily an individual contributor. I step into technical leadership when architecture, direction, or system boundaries need clarification.
 
+## Currently
+
+- Embedded Software Engineer at **LMesh IoT**
+- Working on medical and industrial IoT systems using Zephyr, FreeRTOS, and mixed connectivity stacks
+- Based in the Netherlands, working remotely
+
 ---
 
-## How I think about engineering
+## How I think about software
 
 - Code should be understandable before it is clever
 - Explicit state and data flow beat implicit behavior
@@ -43,10 +49,10 @@ I enjoy experimenting with language features and abstractions, but I am always a
 - TypeScript for automation and internal tools
 
 **Embedded and Systems**
-- Zephyr OS, FreeRTOS
-- ESP-IDF, Nordic SDK
+- Zephyr RTOS, FreeRTOS
+- ESP-IDF, nRF SDK
 - State machines and event-driven designs
-- Low-power systems and high-rate data paths
+- Low-power systems, high data-rate systems
 
 **Connectivity**
 - BLE, Wi-Fi
@@ -65,7 +71,9 @@ I enjoy experimenting with language features and abstractions, but I am always a
 
 These repositories are mostly explorations of architecture, language features, or tooling choices. Some are experimental by design.
 
-### Embedded and Systems
+Most of these projects exist to explore ideas, validate assumptions, or support real work.
+
+### Embedded Systems
 - **[multisensor-station](https://github.com/royyandzakiy/multisensor-station)**  
   Modular multi-sensor firmware architecture focused on extensibility and clear separation of concerns.
 
@@ -84,30 +92,10 @@ These repositories are mostly explorations of architecture, language features, o
   Used internally in real projects.
 
 - **[balancer-robot-workspace-manifest](https://github.com/royyandzakiy/balancer-robot-workspace-manifest)**  
-  Zephyr and west workspace setup for a balancing robot project.  
-  Still a work in progress and intended as a long-term portfolio system.
-
+  Zephyr and west workspace setup for a balancing robot project. Here is.the professional setup for Zephyr projects that I use in real work.
+  
 - **[gmock-sfinae-concepts-calculator](https://github.com/royyandzakiy/gmock-sfinae-concepts-calculator)**  
-  Testing suite setup using templates, SFINAE, C++20 concepts, and testability.
-
----
-
-## What you probably will not see here
-
-- Shiny demos without real constraints
-- Over-abstracted architectures
-- Framework-driven designs without justification
-- Claims of “best” solutions
-
-Most of these projects exist to explore ideas, validate assumptions, or support real work.
-
----
-
-## Currently
-
-- Embedded Software Engineer at **LMesh IoT**
-- Working on medical and industrial IoT systems using Zephyr, FreeRTOS, and mixed connectivity stacks
-- Based in the Netherlands, working remotely
+  Testing suite setup using templates, SFINAE, C++20 concepts.
 
 ---
 
