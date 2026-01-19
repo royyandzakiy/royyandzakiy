@@ -3,7 +3,7 @@
 # Hi, I’m Royyan
 
 Embedded Software / Firmware Engineer  
-C++ • RTOS • Zephyr, ESP-IDF • Systems Architecture
+C, Modern C++ (17-23) • RTOS • Zephyr, ESP-IDF • Systems Architecture
 
 I work on embedded systems that need to behave predictably in the real world.  
 From bare-metal and RTOS firmware to device-to-desktop tooling, I focus on designs that are explicit, debuggable, and maintainable over time.
