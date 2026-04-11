@@ -1,4 +1,4 @@
-<![header](https://github.com/royyandzakiy/royyandzakiy/blob/master/docs/header.png)
+![header](https://github.com/royyandzakiy/royyandzakiy/blob/master/docs/header.png)
 
 # Hi, I’m Royyan
 
