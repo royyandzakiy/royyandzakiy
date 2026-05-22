@@ -1,113 +1,74 @@
 ![header](https://github.com/royyandzakiy/royyandzakiy/blob/master/docs/header.png)
 
-# Hi, I’m Royyan
+# Royyan Dzakiy
 
-Embedded Software / Firmware Engineer  
-C, Modern C++ (17-23) • RTOS • Zephyr, ESP-IDF • Systems Architecture
+**Embedded Software Engineer — Firmware, Systems, and Tooling**
 
-I work on embedded systems that need to behave predictably in the real world.  
-From bare-metal and RTOS firmware to device-to-desktop tooling, I focus on designs that are explicit, debuggable, and maintainable over time.
+C • Modern C++ (17/23) • Zephyr RTOS • ESP-IDF • Embedded Linux (learning)
 
-Primarily an individual contributor. I also contirbute into technical leadership discussing architecture, direction, or system boundaries.
+Netherlands · [LinkedIn](https://www.linkedin.com/in/royyandzakiy/)
 
-## Currently
+---
 
-- Embedded Software Engineer at **LMesh IoT**
-- Working on medical and industrial IoT systems using Zephyr, FreeRTOS, and various connectivity stacks
-- Based in the Netherlands, working remotely
+I build embedded systems that behave predictably in the real world—from bare-metal firmware to desktop tooling that supports it. Currently at **LMesh IoT**, working on medical and industrial devices with Zephyr, FreeRTOS, and BLE/Wi-Fi stacks.
+
+My work sits at the intersection of **deterministic firmware**, **modern C++ architecture**, and **developer infrastructure** (build systems, CI/CD, testing). I care about code that outlasts its author.
+
+---
+
+## What I bring
+
+- **Firmware at the metal.** RTOS-based systems (Zephyr, FreeRTOS, ESP-IDF) on Nordic, Espressif, and STM32. High-throughput sensor pipelines, BLE/Wi-Fi connectivity, low-power design.
+- **Architecture that scales.** Event-driven, state-machine-based designs. Legacy refactoring toward modular, testable structures. Explicit over clever.
+- **Tooling as first-class.** Reproducible builds (CMake + Docker + CI), automated hardware-in-the-loop testing, static analysis, and developer documentation.
+- **Systems thinking.** I don't just write firmware. I design the desktop SDKs, test rigs, and diagnostics tooling that support the device in production.
+
+---
+
+## Selected projects
+
+These repositories reflect how I think and work. Most are explorations of architecture, language patterns, or tooling—some power real production systems.
+
+### Embedded Systems & RTOS
+
+| Repository | What it shows |
+|------------|---------------|
+| [**balancer-robot-workspace-manifest**](https://github.com/royyandzakiy/balancer-robot-workspace-manifest) | Professional Zephyr workspace orchestration using `west`. Multi-repo firmware + desktop app + docs, pinned and reproducible. This is how I structure real projects. |
+| [**multisensor-station**](https://github.com/royyandzakiy/multisensor-station) | Modular multi-sensor firmware. Clean separation of sensor drivers, data pipelines, and application logic. |
+| [**zephyr-modern-cpp**](https://github.com/royyandzakiy/zephyr-modern-cpp) | Modern C++ on constrained targets: concepts, `std::variant`-based state machines, and compile-time abstractions tested on Zephyr and ESP-IDF. |
+| [**esp-freertos-tutorial**](https://github.com/royyandzakiy/esp-freertos-tutorial) | FreeRTOS patterns on ESP32 with emphasis on task structure and concurrency clarity. |
+
+### Tooling, Build Systems & Testing
+
+| Repository | What it shows |
+|------------|---------------|
+| [**cpp-project-template**](https://github.com/royyandzakiy/cpp-project-template) | Production-grade C++ project scaffold: CMake presets, vcpkg, clang-tidy, sanitizers (ASan/UBSan), Tracy profiler, GitHub Actions CI. The same infrastructure I use for host-side device libraries. |
+| [**gmock-sfinae-concepts-calculator**](https://github.com/royyandzakiy/gmock-sfinae-concepts-calculator) | Unit testing with advanced C++ patterns: SFINAE-based mocking, C++20 concepts, and type traits to isolate hardware dependencies. |
+| [**windows-lib-cpp-template**](https://github.com/royyandzakiy/windows-lib-cpp-template) | Native Windows C++ library template with structured CMake, CI, and WinRT integration. Used internally for BLE device communication SDKs. |
+
+### Full-Stack C++ (Desktop, Web, UI)
+
+| Repository | What it shows |
+|------------|---------------|
+| [**drogon-todo-project**](https://github.com/royyandzakiy/drogon-todo-project) | C++23 REST API with JWT auth, SQLite, and clean architecture (Controllers → Services → Repositories). Demonstrates non-blocking coroutines, structured error handling, and multi-platform build presets. |
+| [**qt-qml-project**](https://github.com/royyandzakiy/qt-qml-project) | Qt 6 / QML desktop app with MVVM architecture. Login, SQLite CRUD, CSV export, serial port enumeration. Built as a reusable template with full architecture documentation. |
 
 ---
 
 ## How I think about software
 
-- Code should be understandable and structured such that it's readable
-- Explicit state and data flow means less time during debugging
-- Event-driven designs that embraces modularity scale better than tightly coupled "efficient" control logic
-- Tooling, build systems, developer experience, documentations should all be first class. Code should be made to be left behind and then seamlessly continued by the next contributor/employee
-- Production constraints are part of the design, should.be early on, should be prepared for future changes
+> Code should be structured so the next engineer can continue without a séance.
 
-I enjoy experimenting with language features, patterns/idioms, and abstractions, whilst actively measuring the trade-offs and performance (especially in embedded systems).
+- Explicit state machines and data flow over clever control logic
+- Modular, event-driven designs that scale across teams and time
+- Build reproducibility and automated verification are not optional
+- Production constraints belong in the design phase, not as post-mortems
+- Documentation, architecture decisions, and developer tooling are engineering output—not overhead
 
----
-
-## What I work on
-
-- Embedded firmware for IoT, medical, and industrial devices
-- RTOS-based systems using Zephyr and FreeRTOS
-- Connectivity-heavy devices using BLE, Wi-Fi, and MQTT
-- Medical sensor data acquisition with high throughput and high data integrity requirements
-- Previously on rugged offline-first smart farming feeders mainly utilized in rural areas with minimal to no connectivity infrastructure
-- Firmware architecture, legacy refactoring, and automated testing
-- Native Windows tooling for device communication and diagnostics
+I enjoy pushing what's possible with C++ on small systems while measuring every abstraction against real hardware constraints.
 
 ---
 
-## Core technologies
+## Currently learning
 
-**Languages**
-- C and Modern C++
-- Python for tooling and scripting
-- TypeScript for automation and internal tools
-
-**Embedded and Systems**
-- Zephyr RTOS, FreeRTOS
-- ESP-IDF, nRF SDK
-- State machines and event-driven designs
-- Low-power systems, high data-rate systems
-
-**Connectivity**
-- BLE, Wi-Fi
-- MQTT
-- Custom binary protocols
-
-**Tooling**
-- CMake
-- CI/CD for firmware projects
-- Static analysis
-- GoogleTest
-
-**Development & Documentations**
-- Product Requirement Documents, Engineering Requirement Documents
-- C4 Diagrams, Data Flow Diagrams, Sequence Diagrams, Flow Charts, Class Diagrams, etc
-- Architecture Decision Records
-- Doxygen, Docusaurus
-
----
-
-## Selected repositories
-
-These repositories are mostly explorations of architecture, language features, or tooling choices. Some are experimental by design.
-
-Most of these projects exist to explore ideas, validate assumptions, or support real work.
-
-### Embedded Systems
-- **[multisensor-station](https://github.com/royyandzakiy/multisensor-station)**  
-  Modular multi-sensor firmware architecture focused on extensibility and clear separation of concerns.
-
-- **[esp-freertos-tutorial](https://github.com/royyandzakiy/esp-freertos-tutorial)**  
-  Practical FreeRTOS patterns on ESP32, with an emphasis on task structure and concurrency clarity.
-
-- **[zephyr-modern-cpp](https://github.com/royyandzakiy/zephyr-modern-cpp)**  
-  Experiments using modern C++ features on Zephyr and ESP-IDF, including concepts, variants, and alternative state machine approaches.
-
-- **[LoRa-RHMesh](https://github.com/royyandzakiy/LoRa-RHMesh)**  
-  Early work around LoRa mesh networking and packet routing.
-
-### Tooling and Architecture
-- **[windows-lib-cpp-template](https://github.com/royyandzakiy/windows-lib-cpp-template)**  
-  A C++ library template with structured CMake, CI, and native Windows integration.  
-  Used internally in real projects.
-
-- **[balancer-robot-workspace-manifest](https://github.com/royyandzakiy/balancer-robot-workspace-manifest)**  
-  Zephyr and west workspace setup for a balancing robot project. Here is.the professional setup for Zephyr projects that I use in real work.
-  
-- **[gmock-sfinae-concepts-calculator](https://github.com/royyandzakiy/gmock-sfinae-concepts-calculator)**  
-  Testing suite setup using templates, SFINAE, C++20 concepts.
-
----
-
-## Contact
-
-- LinkedIn: https://www.linkedin.com/in/royyandzakiy/
-
-If you enjoy thinking about firmware architecture, trade-offs, and how things actually behave on hardware, we will likely have things to talk about.
+**Embedded Linux** — building Yocto images, writing kernel modules, and understanding the user-space/kernel boundary. I'm bridging a career of bare-metal and RTOS firmware toward Linux-based embedded systems.
