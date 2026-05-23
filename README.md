@@ -6,7 +6,7 @@
 
 C • Modern C++ (17/23) • Zephyr RTOS • ESP-IDF • Embedded Linux (learning)
 
-Netherlands · [LinkedIn](https://www.linkedin.com/in/royyandzakiy/)
+[LinkedIn](https://www.linkedin.com/in/royyandzakiy/)
 
 ---
 
