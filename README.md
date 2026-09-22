@@ -4,9 +4,9 @@
 
 Embedded software engineer. C, modern C++ (17/23), Zephyr RTOS, ESP-IDF.
 
-I work close to the hardware, currently at LMesh IoT on medical and industrial devices, mostly Nordic and Espressif silicon with Zephyr and FreeRTOS. Before that I led firmware and AIoT engineering at eFishery, managing up to 30 engineers. B.S. Informatics, Institut Teknologi Bandung.
+I work close to the hardware, currently at LMesh IoT on medical and industrial devices, mostly Nordic and Espressif silicon with Zephyr and FreeRTOS. Before that I managed AIoT engineering at eFishery, developing Fish Feeders, managing up to 30 engineers.
 
-Most of my work sits in two areas: making firmware testable before the hardware is available, and building toolchains and project structures that other engineers can pick up and run. I am currently extending that into embedded Linux, working with Yocto and the kernel to user-space boundary.
+My work sits alot in two areas: making firmware testable before the hardware is available, and building toolchains and project structures that other engineers can pick up and run. I am currently extending that into embedded Linux, working with Yocto and the kernel to user-space boundary.
 
 ---
 
