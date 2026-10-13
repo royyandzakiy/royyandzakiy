@@ -25,8 +25,8 @@ Everything else here is smaller experiments.
 
 ## Teaching and writing
 
-I wrote and run the Packt live workshop *Practical Embedded Automated Testing for Zephyr*, and was technical reviewer for *Developing IoT Projects with ESP32, 2nd Edition*. I also speak at community events. More at [royyandzakiy.github.io](https://royyandzakiy.github.io).
+I wrote and run the Packt live workshop *Practical Embedded Automated Testing for Zephyr*, and was technical reviewer for *Developing IoT Projects with ESP32, 2nd Edition*. I also speak at community events. More at [royyandzakiy.com](https://royyandzakiy.com).
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/royyandzakiy/) · [royyandzakiy.github.io](https://royyandzakiy.github.io)
+[LinkedIn](https://www.linkedin.com/in/royyandzakiy/) · [royyandzakiy.com](https://royyandzakiy.com)
